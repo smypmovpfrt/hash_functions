@@ -130,6 +130,9 @@
   <ItemGroup>
     <ClCompile Include="hash_functions.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="money.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
